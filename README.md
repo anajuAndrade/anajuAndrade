@@ -1,4 +1,6 @@
-### Hi there 👋
+<img width=100% bottom=50px src="https://github.com/anajuAndrade/anajuAndrade/assets/163786271/6423fa25-7a33-496d-89f7-0e2bc0edb4d2"/>
+<br>
+<br> 
 
 <!--
 **anajuAndrade/anajuAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
