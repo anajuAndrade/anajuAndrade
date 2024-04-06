@@ -6,7 +6,7 @@
 <br>
 <br>
 
-### I'm Ana Julia, a student of Systems Developtment and Analisis 👾  
+### I'm Ana Julia, a student of Systems Analysis and Development 👾  
   
 
 -  💷I’m not working at the moment.  
