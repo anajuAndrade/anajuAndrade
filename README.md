@@ -12,7 +12,7 @@
 -  💷I’m not working at the moment.  
   
 
-- 🔮 In High Schook I was a monitor of two subjetcs: English and Computers Network  
+- 🔮 In High School I was a monitor of two subjetcs: English and Computers Network  
 
 
 - 🎶 How to reach me: anajul.andrade@gmail.com  
