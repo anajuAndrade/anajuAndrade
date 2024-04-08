@@ -41,7 +41,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
  
-</div>
+</div><br/>
 
 
 
@@ -53,21 +53,16 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-</div>
+</div><br/>
+
 
 <div align="center" >
-  
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=calendar&format=png&quality=10&weeks=15&theme=purple&widget_size=small)
+
+# My Contributions Graph:
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=fadeIn&format=svg&weeks=15&theme=purple&widget_size=small)
 
 </div>
 
-<!-- 
-<div align="center" >
-  
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=calendar&weeks=15&theme=purple)
-
-</div>
--->
 
 
 
