@@ -55,15 +55,19 @@
 
 </div>
 
+<div align="center" >
+  
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=calendar&format=png&quality=10&weeks=15&theme=purple&widget_size=small)
 
-
+</div>
 
 <!-- 
 <div align="center" >
   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=calendar&weeks=30&theme=purple)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=calendar&weeks=15&theme=purple)
 
-</div>-->
+</div>
+-->
 
 
 
