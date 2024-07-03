@@ -9,7 +9,7 @@
 ### I'm Ana Julia, a student of Systems Analysis and Development 👾  
   
 
--  💷I’m not working at the moment.  
+-  💷I’m currently working at a informatic store.  
   
 
 - 🔮 In High School I was a monitor of two subjetcs: English and Computers Network  
