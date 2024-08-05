@@ -2,11 +2,11 @@
 <br>
 <br> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Thin+100&weight=500&size=30&pause=1000&color=4B0082&random=false&width=435&lines=Welcome+to+my+GitHub+Page!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Thin+100&weight=500&size=30&pause=1000&color=4B0082&random=false&width=435&lines=Bem vindo(a)+a+minha+página+do+GitHub!" alt="Typing SVG" /></a>
 <br>
 <br>
 
-### I'm Ana Julia, a student of Systems Analysis and Development 👾  
+### Me chamo Ana Julia e sou estudante de Análise e Desenvolvimento de Sistemas! 👾  
   
 
 -  💷I’m currently working at a informatic store.  
@@ -30,7 +30,7 @@
 
 <div align="center" >
   
-# I code with:
+# Eu programo com:
 <p align="center"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -47,7 +47,7 @@
 
 <div align="center" >
   
-# I'm currently learning:
+# No momento estou aprendendo:
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
@@ -58,7 +58,7 @@
 
 <div align="center" >
 
-# My Contributions Graph:
+# Meu gráfico de contribuições:
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=fadeIn&format=svg&weeks=15&theme=purple&widget_size=small)
 
 </div>
