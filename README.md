@@ -9,20 +9,20 @@
 ### Me chamo Ana Julia e sou estudante de Análise e Desenvolvimento de Sistemas! 👾  
   
 
--  💷I’m currently working at a informatic store.  
+-  💷 Atualmente trabalho em uma loja de informática.  
   
 
-- 🔮 In High School I was a monitor of two subjetcs: English and Computers Network  
+- 🔮 No Ensino Médio eu era monitora de 2 matérias: Língua Estrangeira Moderna e Rede de Computadores.  
 
 
-- 🎶 How to reach me: anajul.andrade@gmail.com  
+- 🎶 Como me contatar: anajul.andrade@gmail.com  
 <br>
 <br>
 
 
 <div align="center" >
   
-# My GitHub Stats:
+# Meus status de condificações:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anajuAndrade&theme=buefy&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anajuAndrade&theme=buefy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
