@@ -59,7 +59,7 @@
 <div align="center" >
 
 # Meu gráfico de contribuições:
-![Ana1s graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=fadeIn&weeks=30&theme=purple)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/anajuAndrade?chart=3dbar&gap=0.6&scale=2&animation=fadeIn&weeks=30&theme=purple&format=svg)
 
 </div>
 
