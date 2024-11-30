@@ -8,13 +8,6 @@
 
 ### Me chamo Ana Julia e sou estudante de Análise e Desenvolvimento de Sistemas! 👾  
   
-
--  💷 Atualmente trabalho em uma loja de informática.  
-  
-
-- 🔮 No Ensino Médio eu era monitora de 2 matérias: Língua Estrangeira Moderna e Rede de Computadores.  
-
-
 - 🎶 Como me contatar: anajul.andrade@gmail.com  
 <br>
 <br>
